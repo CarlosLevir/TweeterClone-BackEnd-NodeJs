@@ -8,3 +8,6 @@ env.json
 
 # Tests
 coverage/
+
+# P
+.env.json
